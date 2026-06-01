@@ -10,6 +10,6 @@ Version de Unity: 2022.3.62f3
 
 5)Choisir un dossier où le projet va s'installer sur votre ordinateur
 
-6) Ouvrir le projet dans UnityHub : Add -> Add project from disk
+6)Ouvrir le projet dans UnityHub : Add -> Add project from disk
 
-7) Ouvrir le projet dans UnityHub
+7)Ouvrir le projet dans UnityHub
