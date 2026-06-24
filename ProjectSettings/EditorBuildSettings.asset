@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/CoffeeForMonsters.unity
+    path: "Assets/Scenes/H\xE9lo\xEFse/CoffeeForMonsters.unity"
     guid: bb03ba702ae341846b3741ad662ba1a1
   m_configObjects: {}
