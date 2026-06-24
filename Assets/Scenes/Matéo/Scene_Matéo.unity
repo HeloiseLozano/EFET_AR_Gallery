@@ -369,7 +369,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1917875764}
   mHiddenRoot: {fileID: 0}
-  mTargetName: 
+  mTargetName: JACQUES-GRANGE-POSTER-A5
   mDatasetName: 
   mCastedBehaviour: {fileID: 1917875764}
   mMeshFilter: {fileID: 0}
@@ -433,14 +433,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: 
+  mTrackableName: JACQUES-GRANGE-POSTER-A5
   mInitializedInEditor: 1
   mDataSetPath: 
-  mAspectRatio: 1
+  mAspectRatio: 1.4163208
   mImageTargetType: 3
-  mWidth: 0.2
+  mWidth: 0.14121094
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 0}
+  mRuntimeTexture: {fileID: 2800000, guid: 267cd55d96ec7bd408d836078163f72e, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -453,13 +453,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1917875761}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
